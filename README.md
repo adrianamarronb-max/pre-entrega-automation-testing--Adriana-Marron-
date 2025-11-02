@@ -35,8 +35,6 @@ preentrega/
 ├── conftest.py               # Configuración y hooks de Pytest
 ├── requirements.txt          # Dependencias del proyecto
 ├── pytest.ini                # Configuración de Pytest (marcas, paths, etc.)
-├── run_tests.bat             # Script de ejecución automatizada (Windows)
-├── run_tests.sh              # Script de ejecución automatizada (Linux/Mac)
 └── README.md                 # Este archivo
 ```
 
@@ -141,3 +139,4 @@ Ambos scripts generarán automáticamente reportes en la carpeta `/reports`.
 **Manuel Marchena**  
 QA Analyst & Automation Engineer  
 📧 [Contacto profesional](mailto:manuelmarche34@gmail.com)
+
