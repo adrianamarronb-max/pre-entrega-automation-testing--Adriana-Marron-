@@ -1,0 +1,41 @@
+# ===========================
+# Python / Pytest / Selenium
+# ===========================
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Logs
+*.log
+*.tmp
+*.bak
+
+# Pytest cache
+.pytest_cache/
+.cache/
+reports/
+*.html
+__pycache__/
+.vscode/
+*.log
+*.pyc
+*.pyo
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
